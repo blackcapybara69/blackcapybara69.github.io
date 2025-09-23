@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Title</title>
+        <title>Mateo and Ayaan productions</title>
         <link rel="stylesheet" href="styles.css" />
         <script src="script.js"></script>
     </head>
