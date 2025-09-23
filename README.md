@@ -18,5 +18,6 @@
         Stress button
         </button>
         <img OnClick() id="image" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/mr-pants-green.png">
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/OhNoes.png">
     </body>
 </html>
