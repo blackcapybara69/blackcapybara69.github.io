@@ -1,0 +1,12 @@
+#text {
+    color: rgb(249, 28, 28);
+}
+#btn {
+    background-color: #099fff;
+        border: none;
+    position: 20, 50;
+}
+#image {
+    top: %30
+    position: relative
+}
